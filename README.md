@@ -5,7 +5,17 @@
 * NTU CSIE student (B07)
 * Double Major Math from 2019
 
-## Work & Club Experiences
+## Skills
+
+* C/C++
+* Java
+* Python3
+* PHP & Laravel
+* Javascript & Typescript
+* React.js, Next.js, Socket.io, Node.js (express), p5.js
+* MySQL, MongoDB
+
+## Work Experiences
 
 ### Co-founder & Full-stack Developer
 
@@ -34,12 +44,9 @@ NTU CSIE & Math Feb. 2020 - Jun. 2022
 * Algorithm Design and Analysis
 * Calculus
 
-### Skills
+## Club Experiences
 
-* C/C++
-* Java
-* Python3
-* PHP & Laravel
-* Javascript & Typescript
-* React.js, Next.js, Socket.io, Node.js (express), p5.js
-* MySQL, MongoDB
+* NTU Cycling Club, Facebook Page Manager, Feb. 2019 - Jun. 2020
+* NTU Cycling Club, Leader, Jul. 2020 - Jul. 2021
+* NTU Cycling Club, General Affairs, Aug. 2021 - Jan. 2022
+* NTU Fighting Sport Club, General Affairs, Jul. 2022 - present
