@@ -1,5 +1,7 @@
 ![bearomorphism's GitHub stats](https://github-readme-stats.vercel.app/api?username=bearomorphism&show_icons=true&theme=radical)
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Mrbear666)](https://leetcode.com/Mrbear666/)
+
 # About Me
 
 * NTU CSIE student (B07)
