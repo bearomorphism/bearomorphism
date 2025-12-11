@@ -4,7 +4,7 @@ Software Engineer at Microsoft Taiwan.
 
 ## Highlights
 
-- Active contributor in [commitizen-tools](http://github.com/commitizen-tools/commitizen)
+- Maintainer & active contributor in [commitizen-tools](http://github.com/commitizen-tools/commitizen)
 - Active attendee of open source community [opensource4you](https://github.com/opensource4you/readme) in Taiwan
 
 <https://linktr.ee/bearomorphsim>
