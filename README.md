@@ -11,3 +11,5 @@ Software Engineer at Microsoft Taiwan, working on the Power BI / Analysis Servic
 ## Find me
 
 [GitHub](https://github.com/bearomorphism) · [Linktree](https://linktr.ee/bearomorphsim) · [LeetCode](https://leetcode.com/Mrbear666/)
+
+![bearomorphism's GitHub stats](./images/userstats.svg)
