@@ -1,14 +1,15 @@
 # Hi, I'm Tim Hsiung
 
-Software Engineer at Microsoft Taiwan.
+Software Engineer at Microsoft Taiwan, working on the Power BI / Analysis Services engine. Open-source maintainer and tooling enthusiast.
 
-## Highlights
+## Currently
 
-- Maintainer & active contributor in [commitizen-tools](http://github.com/commitizen-tools/commitizen)
-- Active attendee of open source community [opensource4you](https://github.com/opensource4you/readme) in Taiwan
+- Maintaining [commitizen](https://github.com/commitizen-tools/commitizen) — bug triage, PR reviews, conventional-commit tooling
+- Building Copilot CLI workflows — skills, agents, dotfiles for sustained AI-assisted development
+- Active attendee of [opensource4you](https://github.com/opensource4you/readme) in Taiwan
 
-<https://linktr.ee/bearomorphsim>
+## Find me
 
-![bearomorphism's GitHub stats](https://github-readme-stats.vercel.app/api?username=bearomorphism&show_icons=true&theme=radical)
+[GitHub](https://github.com/bearomorphism) · [Linktree](https://linktr.ee/bearomorphsim) · [LeetCode](https://leetcode.com/Mrbear666/)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Mrbear666)](https://leetcode.com/Mrbear666/)
+![bearomorphism's GitHub stats](./images/userstats.svg)
